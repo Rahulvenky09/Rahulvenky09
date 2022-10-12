@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Rahul Venkatesh . I am currently pursuing my master's in Electrical and Computer Engineering.
-- 👀 I’m an aspiring Automation engineer with interest in areas such as Industrial Automation, Internet of Things and Robotics.
-- 🌱 I’m currently learning on working with PLCs and HMI softwares.
-- 💞️ I’m looking to collaborate on Industrial Automation Projects.
+- 👋 Hello Everyone, 
+I’m Rahul Venkatesh . I am an aspiring engineer with interest in areas such as Industrial Automation, Instrumentation and Internet of Things.
+
+Instruments have always fascinated me since my childhood. I have always wondered in childhood how does each instrument possess unique behaviour and different characteristics. This piqued my interest in pursuing Bachelor’s degree in Electronics and Instrumentation Engineering. The fascination for instruments fuelled 
+in me more to pursue Master’s in Electrical and Computer Engineering at Concordia University, Montreal.I specialized in the field of Systems and Control 
+during my master’s program. I have good exeperience in design, development, configuration, commissioning and process visualization of different control systems
+such as PLC, SCADA and HMI's. I am looking forward to an opportunity that aligns with my professional goals.
+
+
 - 📫 To reach me mail -rahulvenkatesh69@gmail.com
 
-<!---
-Rahulvenky09/Rahulvenky09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
