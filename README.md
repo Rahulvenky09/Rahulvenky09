@@ -9,7 +9,7 @@ commissioning and process visualization of different control systems such as PLC
 with my professional goals.
 
 
-- 📫 To reach me mail -rahulvenkatesh69@gmail.com
+- 📫 To reach me mail - rahulvenkatesh69@gmail.com
 
 
 
