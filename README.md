@@ -1,5 +1,6 @@
 - 👋 Hello Everyone, 
 I’m Rahul Venkatesh . I am an aspiring engineer with interest in areas such as Industrial Automation, Instrumentation and Internet of Things.
+
 Instruments have always fascinated me since my childhood. I have always wondered since childhood how does each instrument possess unique behaviour
 and differeent characteristics. This piqued my interest in pursuing Bachelor’s degree in Electronics and Instrumentation Engineering during my 
 undergraduate studies. The fascination for instruments fuelled  in me more to pursue Master’s in Electrical and Computer Engineering at Concordia University, 
