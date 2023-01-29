@@ -1,5 +1,5 @@
 - 👋 Hello Everyone,  
-I’m Rahul Venkatesh . I am an aspiring engineer with interest in areas such as Industrial Automation, Instrumentation and Robotics.
+I’m Rahul Venkatesh . I am an aspiring engineer with interest in areas such as Electrical Controls, Automation, Instrumentation and Robotics.
 
 Instruments have always fascinated me since my childhood. I have always wondered since childhood how does each instrument possess unique behaviour
 and differeent characteristics. This piqued my interest in pursuing Bachelor’s degree in Electronics and Instrumentation Engineering during my 
